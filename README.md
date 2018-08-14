@@ -1,6 +1,8 @@
 # whatsapp-groups
 Lista de grupos devs no Whatsapp
 
+DIVULGA FREELAS: https://chat.whatsapp.com/ArviK0XG4aD0hACtXHd2yt
+
 HTML DEV: https://chat.whatsapp.com/9gQI8IURE9UAL8oxL7sF3v
 
 PHP DEV: https://chat.whatsapp.com/CmTibFkDRgs5UyUydfXX1Z
